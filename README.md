@@ -11,7 +11,7 @@ and how they shape the kind of professional I want to become.<br>
 Developed through: British Airways Virtual Data Science Simulation<br>
 -Worked through real forecasting tasks with incomplete information.<br>
 -Learned to justify decisions using evidence rather than waiting for a 'perfect' answer.<br>
--Built confidence in approaching open-ended problems — something essential in fast-moving FinTech environments where ambiguity is normal.<br>
+-Built confidence in approaching open-ended problems - something essential in fast-moving FinTech environments where ambiguity is normal.<br>
 How this shapes my future work:<br>
 I now feel more confident reasoning through complex situations, explaining my choices clearly, and experimenting with different solutions when the path isn’t obvious. This directly supports the rapid, iterative problem-solving expected in FinTech roles.<br>
 
