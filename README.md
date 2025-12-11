@@ -7,7 +7,7 @@ Currently building my portfolio for early-career roles in FinTech and AI, where 
 I enjoy building things quickly, learning through real applications, and using AI tools to improve how I work. This portfolio highlights three Kingston Graduate Attributes I focused on developing this year: Digital Competency, Adaptability, and Creative Problem Solving <br>
 and how they shape the kind of professional I want to become.<br>
 
-**💬 Creative Problem Solving**
+**💬 Creative Problem Solving**<br>
 Developed through: British Airways Virtual Data Science Simulation<br>
 -Worked through real forecasting tasks with incomplete information.<br>
 -Learned to justify decisions using evidence rather than waiting for a 'perfect' answer.<br>
