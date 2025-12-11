@@ -1,9 +1,6 @@
 ## Hi there, I'm Khadija 👋
 
-<!--
-**khadijan21/khadijan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-##Final year Computer Science + Artificial Intelligence 
+Final year Computer Science + Artificial Intelligence 
 Interested in FinTech, data-driven problem solving, and creating practical technical solutions.
 Currently building my portfolio for early-career roles in FinTech and AI, where adaptability, digital competency and creative problem solving are essential.
 
@@ -42,4 +39,3 @@ If you’re interested in AI, data, or early-career opportunities in tech and Fi
 -LinkedIn
 -GitHub Projects Coming Soon
 -khadija_nadeem@live.com
-##
